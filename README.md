@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋, I am Avinash Kokare
 
-<!--
-**avinash-kokare-dev/avinash-kokare-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my web developer portfolio! This repository serves as a showcase of my skills, experience, and projects
 
-Here are some ideas to get you started:
+## About Me
+I'm a dedicated front-end web/mobile developer with a strong foundation in front-end development, driven by a deep passion for creating functional web applications.
+  * Name: Avinash Kokare
+  * Location: Mumbai, India
+  * Email: avi1999kokare@gmail.com
+  * LinkedIn: https://www.linkedin.com/in/avinash-kokare-193a1b1aa/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+  * Front-end: HTML, CSS, JavaScript, React
+  * Back-end: Node.js, Express.
+  * Databases: MongoDB, MySQL
+  * DevOps: Basic of Docker
+  * Version Control: Git, GitHub, svn
+
+## Experience
+
+## Education
+  * Bachelor in Computer Engineering (2017 - 2021)
+
+## Contact
+  * +91-9892583723
+  * avi1999kokare@gmail.com
